@@ -1,0 +1,36 @@
++----------------+
+|     User       |
++----------------+
+| userName       |
+| email          |
+| password       |
++----------------+
+      |
+      |
+      | 1
+      |
++----------------+
+|  Transaction   |
++----------------+
+| transactionId  |
+| amount         |
+| type           |
+| category       |
+| date           |
+| description    |
+| startDate      |
+| lastDate       |
++----------------+
+      |
+      |
+      | *
+      |
++----------------+
+|   Functionality |
++----------------+
+| User Login     |
+| Add Transaction|
+| Filter by Date |
+| View Summary   |
+| Delete Transaction|
++----------------+
